@@ -1,3 +1,6 @@
+# Chrome compatibility
+Tested on version 109.0.5414.74
+
 # Run using maven
 ```console
 mvn test
