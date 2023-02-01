@@ -1,0 +1,9 @@
+{
+  "username": "mkhoo.test@gmail.com",
+  "password": "72081551a",
+  "listNameMin": 1,
+  "listNameMax": 10,
+  "numOfListToAdd": 10,
+  "removeListStart": 5,
+  "removeListEnd": 10
+}
